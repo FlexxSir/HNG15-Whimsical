@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+.openai/
+*.zip
+.DS_Store

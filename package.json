@@ -1,0 +1,13 @@
+{
+  "name": "zedu-about",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zedu About page with an animated social guide",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/validate.mjs",
+    "check": "node --check dist/app.js && node scripts/validate.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
